@@ -8,40 +8,29 @@
 
 body {
    font-family: 'Poppins', sans-serif;
+   max-height: 100vh;
+   max-width: 100vw;
+   background-color: aqua;
+   /* background: linear-gradient(45deg, white, blue); */
 }
-
-/* .header {
-   height: 60px;
-   width: 100vw;
-   background-color: coral;
-   color: #fff;
-   display: flex;
-   justify-content: center;
-   align-items: center;
-}
-
-.title {
-   font-weight: 200;
-} */
 
 .container {
-   position: relative;
+   /* position: relative; */
    display: flex;
    justify-content: space-around;
    align-items: center;
    flex-wrap: wrap;
-   min-height: 100vh;
-   max-width: 1244px;
-   width: 90%;
+   max-height: 100%;
+   max-width: 100%;
+   padding-top: 30vh;
+   /* max-width: 1244px; */
+   width: 75%;
    margin: 0 auto;
-   transform: skewY(-10deg);
+   transform: skewY(-8deg);
 }
+
 
 .card {
-   margin-right: 30px;
-}
-
-.container .card {
    position: relative;
    width: 300px;
    height: 400px;
