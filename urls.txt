@@ -1,0 +1,6 @@
+Estudios DICOM: https://img-server.urgencias.local/viewer/index.php
+Moodle: https://moodle.urgencias.local/
+Nube: http://nube.urgencias.local/index.php/apps/files/?dir=/&fileid=5557
+Empleado Digital: https://sistemas2.cordoba.local/ReciboDigital/login.aspx?ReturnUrl=%2fReciboDigital%2fDefault.aspx
+Expedientes: https://sistemas2.cordoba.local/SIRAD/PaginaInvitado.aspx
+WebMail: https://mail.cordoba.gov.ar/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.cordoba.gov.ar%2fowa%2f
